@@ -1,0 +1,18 @@
+{
+    "CookiesList": [
+        {
+            "USERNAME": "YOUR USER NAME 1",
+            "PASSWORD": "YOUR PASS WORD 1",
+            "UserLinkID": "",
+            "UserID": "",
+            "Cookies": ""
+        },
+        {
+            "USERNAME": "YOUR USER NAME 2",
+            "PASSWORD": "YOUR PASS WORD 2",
+            "UserLinkID": "",
+            "UserID": "",
+            "Cookies": ""
+        }
+    ]
+}
